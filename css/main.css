@@ -1,0 +1,95 @@
+/*html specifications*/
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+/*header {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px 40px;
+}
+*/
+
+
+
+
+
+/*grid specifications*/
+
+[class*="col-"] {
+  font-size: 16px;
+
+}
+
+.col-12 {
+  /* background: #CCCCCC;*/
+}
+
+.col-8 {
+  /* background: green;*/
+}
+
+.col-7 {
+  /*background: purple;*/
+}
+
+.col-6{
+  /*background: blue;*/
+}
+
+
+.col-4 {
+  /*background: pink;*/
+
+}
+
+.col-3 {
+  /*background: red;*/
+}
+
+.col-2 {
+  /*background: yellow;*/
+}
+
+.col-1 {
+  /*background: white;*/
+}
+
+/*mediaqueri specifications*/
+
+@media (max-width: 768px) {
+  .col-1 {
+    width: 100%;
+  }
+  .col-2 {
+    width: 100%;
+  }
+  .col-3 {
+    width: 100%;
+  }
+  .col-4 {
+    width: 100%;
+  }
+  .col-6 {
+    width: 100%;
+  }
+  .col-7 {
+    width: 100%;
+  }
+  .col-8 {
+    width: 100%;
+  }
+  .col-12 {
+    width: 100%;
+  }
+  .col-space {
+    width: 100%;
+  }
+}
