@@ -4,22 +4,36 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto', sans-serif;
+  color: #303231;
+}
+
+.type1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+  color: #E63420;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+    /*background-color: #E63420;
+    border-style: none;*/
+    border-radius: 5px;
+    border-color: #FFF100;
+    border-width: medium;
+    height: 35px;
+    padding: 5px;
+    color: #3C3C3B;
+  /*  FFF100 E63420*/
 }
 
 footer {
   text-align: center;
 }
-
-/*header {
-  background-color: #2c3e50;
-  color: white;
-  padding: 20px 40px;
-}
-*/
-
-
-
-
 
 /*grid specifications*/
 
