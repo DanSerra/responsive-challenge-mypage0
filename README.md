@@ -6,10 +6,14 @@
 
 ***
 
-Para completar este reto, hemos creado este repositorio boilerplate (plantilla
-inicial) con todos los recursos que necesitas. Esto incluye imágenes y
-estructura de carpetas y archivos donde colocarás tu código.
+## Objetivo
 
-## Flujo de trabajo
+1. Realizar una página con la diagramación sugerida con la elección libre de elementos visuales.
 
-1. Realizar una página con la diagramación sugerida con la elección libre elementos visuales 
+## Imagen
+
+![screencapture-file-users-danielaserrano-documents-github-responsive-challenge-mypage0-index-html-2018-03-30-21_40_43](https://user-images.githubusercontent.com/31232183/38159350-e69a0372-3463-11e8-9efe-634cd524b40c.png)
+
+## Descripción
+
+Realicé un ejercicio con algunos elementos de identidad visual que anteriormente usaba y agregué la primera vista de tres proyectos reales en los que participé desde el branding hasta el prototipado de las páginas web de cada empresa. 
